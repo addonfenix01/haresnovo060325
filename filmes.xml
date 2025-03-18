@@ -13,34 +13,41 @@
 
 
 
-
 <item>
-    <title>TESTE - Novocaine: À Prova de Dor (2025) [COLOR orange]+16[/COLOR] - ⭐ IMDb: 7.5</title>
-    <link>plugin://plugin.video.resolverurl_player?url=https://filemoon.to/d/5y7erl59cvcw$nome=[COLOR red]Filme - Novocaine: À Prova de Dor (2025)[/COLOR]</link>
-    <trailer>plugin://plugin.video.youtube/play/?video_id=udd0QbO2IuM&t$nome=[COLOR yellow]Trailer - Novocaine: À Prova de Dor (2025)[/COLOR]</trailer>
+    <title>[B][COLOR red]Novocaine: À Prova de Dor (2025)[/COLOR][/B] - [COLOR orange]IMDb: 7.5[/COLOR] [COLOR red]+16[/COLOR]</title>
+    <link>plugin://plugin.video.resolverurl_player?url=https://filemoon.to/d/5y7erl59cvcw$nome=[COLOR orange]Filme - Novocaine: À Prova de Dor (2025)[/COLOR]</link>
+    <trailer>plugin://plugin.video.youtube/play/?video_id=udd0QbO2IuM&t$nome=[COLOR red]Trailer - Novocaine: À Prova de Dor (2025)[/COLOR]</trailer>
     <thumbnail>https://image.tmdb.org/t/p/original/xlx1QqcoGtCBNmRdKjIi5CIp0yb.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/original/yXYWZLPZJp69FGQhSClizhr5jOe.jpg</fanart>
     <genre>Aventura, Ação, Comédia</genre>
-    <info>Quando a garota de seus sonhos é sequestrada, Nathan, um homem comum, transforma sua condição de não sentir dor em sua maior força para recuperar a amada das garras dos criminosos.</info>
-    <year>2025</year>
-    <director>John Doe</director>
-    <rating>7.5</rating>
-    <duration>112 min</duration>
+    <info>
+[COLOR red]Título Original:[/COLOR] Novocaine: À Prova de Dor
+[COLOR orange]Dirigido por:[/COLOR] John Doe
+[COLOR red]Roteirista:[/COLOR] Jane Smith
+[COLOR orange]Estúdio:[/COLOR] Paramount Pictures
+[COLOR red]Ano:[/COLOR] 2025
+[COLOR orange]Duração:[/COLOR] 112 min
+[COLOR red]Nota IMDb:[/COLOR] 7.5
+[COLOR orange]Gênero:[/COLOR] Aventura, Ação, Comédia
+[COLOR red]Áudio:[/COLOR] Inglês
+[COLOR orange]Qualidade do Vídeo:[/COLOR] 1080p WEB-DL
+[COLOR red]Sinopse:[/COLOR] Quando a garota de seus sonhos é sequestrada, Nathan, um homem comum, transforma sua condição de não sentir dor em sua maior força para recuperar a amada das garras dos criminosos.
+    </info>
     <cast>
         <actor>
-            <name>Chris Evans</name>
-            <role>Nathan</role>
-            <movies>Capitão América: O Primeiro Vingador, Vingadores: Ultimato, Entre Facas e Segredos</movies>
+            <name>[COLOR orange]Chris Evans[/COLOR]</name>
+            <role>[COLOR red]Nathan[/COLOR]</role>
+            <movies>[COLOR orange]Capitão América: O Primeiro Vingador, Vingadores: Ultimato, Entre Facas e Segredos[/COLOR]</movies>
         </actor>
         <actor>
-            <name>Ana de Armas</name>
-            <role>Sophie</role>
-            <movies>Entre Facas e Segredos, Blade Runner 2049, O Agente Oculto</movies>
+            <name>[COLOR red]Ana de Armas[/COLOR]</name>
+            <role>[COLOR orange]Sophie[/COLOR]</role>
+            <movies>[COLOR red]Entre Facas e Segredos, Blade Runner 2049, O Agente Oculto[/COLOR]</movies>
         </actor>
         <actor>
-            <name>Idris Elba</name>
-            <role>Vilão</role>
-            <movies>Thor: Ragnarok, O Esquadrão Suicida, Luther: O Cair da Noite</movies>
+            <name>[COLOR orange]Idris Elba[/COLOR]</name>
+            <role>[COLOR red]Vilão[/COLOR]</role>
+            <movies>[COLOR orange]Thor: Ragnarok, O Esquadrão Suicida, Luther: O Cair da Noite[/COLOR]</movies>
         </actor>
     </cast>
 </item>
