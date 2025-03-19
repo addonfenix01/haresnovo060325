@@ -245,62 +245,217 @@
     </cast>
 </item>
  
-
 <item>
-<title>Contra-Ataque - (2025)</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2981ca3adf764d3278748a3b40c1513fae1a7c72</link>
-<thumbnail>https://image.tmdb.org/t/p/original/iQsMy1xn8NG1VfVWFpEhhAsp4pi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/deUWVEgNh2IGjShyymZhaYP40ye.jpg</fanart>
-<info>Cinco amigos fazendo compras na fronteira EUA/México enfrentam assassinos sicários, mas os alvos são, na verdade, Morcegos.</info>
+    <title>[B][COLOR red]Contra-Ataque (2025)[/COLOR][/B] - [COLOR orange]IMDb: 6.9[/COLOR] [COLOR red]+14[/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2981ca3adf764d3278748a3b40c1513fae1a7c72$nome=[COLOR orange]Filme - Contra-Ataque (2025)[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=uZvll2w3aIg$nome=[COLOR green]Trailer - Contra-Ataque (2025)[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/iQsMy1xn8NG1VfVWFpEhhAsp4pi.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/deUWVEgNh2IGjShyymZhaYP40ye.jpg</fanart>
+    <genre>Ação, Suspense</genre>
+    <info>
+        [COLOR red]Título Original:[/COLOR] Contraataque
+        [COLOR orange]Dirigido por:[/COLOR] Chava Cartas
+        [COLOR red]Roteirista:[/COLOR] Jose Ruben Escalante Mendez
+        [COLOR orange]Estúdio:[/COLOR] Draco Films
+        [COLOR red]Ano:[/COLOR] 2025
+        [COLOR orange]Duração:[/COLOR] 84 min
+        [COLOR red]Nota IMDb:[/COLOR] 6.9
+        [COLOR orange]Gênero:[/COLOR] Ação, Suspense
+        [COLOR red]Áudio:[/COLOR] Espanhol
+        [COLOR orange]Qualidade do Vídeo:[/COLOR] 1080p WEB-DL
+        [COLOR red]Sinopse:[/COLOR] Comandados pelo capitão Guerrero, uma equipe de cinco membros dos "morcegos", elite do exército mexicano, fica responsável por uma falsa viagem à fronteira com os Estados Unidos. Com o intuito de salvar parte da população de um perigoso grupo de criminosos, o plano inicial parecia perfeito e viável de execução, mas o surgimento de um novo inimigo coloca a vida deles em risco total. Dentro de uma emboscada criada por um poderoso narcotraficante, os soldados precisam atingir o limite de sua força física e intelectual para se safar da situação.
+        [COLOR red]Elenco:[/COLOR]
+        [COLOR orange]Luis Alberti[/COLOR] como Armando
+        [COLOR orange]Noé Hernández[/COLOR] como Josefo
+        [COLOR orange]Mayra Batalla[/COLOR] como Lucía
+        [COLOR orange]Leonardo Alonso[/COLOR] como Dámaso
+        [COLOR orange]David Calderón León[/COLOR] como [Personagem]
+    </info>
 </item>
 
 <item>
-<title>A Vingança Não é um Jogo - (2025)</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:666e0486839cca32be5b2f207872b5e44945dbea</link>
-<thumbnail>https://image.tmdb.org/t/p/original/pjIHf25nJzspathSVBZjTbUcLuB.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/mMm9EvMfBYvHlszI95932Pwy9NL.jpg</fanart>
-<info>Uma mãe de luto usa um jogo de realidade virtual para atrapalhar a viagem de fim de semana de seus antigos amigos. Mas o que começa como um exercício de cura terapêutica se transforma em uma noite de vingança.</info>
+    <title>[B][COLOR red]A Vingança Não é um Jogo (2024)[/COLOR][/B] - [COLOR orange]IMDb: 4.1[/COLOR] [COLOR red]+16[/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:666e0486839cca32be5b2f207872b5e44945dbea$nome=[COLOR orange]Filme - A Vingança Não é um Jogo (2024)[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=dG1fMXptTGliOEVBdms$nome=[COLOR green]Trailer - A Vingança Não é um Jogo (2024)[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/pjIHf25nJzspathSVBZjTbUcLuB.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/mMm9EvMfBYvHlszI95932Pwy9NL.jpg</fanart>
+    <genre>Ficção científica, Comédia, Suspense, Mistério</genre>
+    <info>
+        [COLOR red]Título Original:[/COLOR] ClearMind
+        [COLOR orange]Dirigido por:[/COLOR] Rebecca Eskreis
+        [COLOR red]Roteirista:[/COLOR] Seana Kofoed
+        [COLOR orange]Estúdio:[/COLOR] River Place Productions
+        [COLOR red]Ano:[/COLOR] 2024
+        [COLOR orange]Duração:[/COLOR] 85 min
+        [COLOR red]Nota IMDb:[/COLOR] 4.1
+        [COLOR orange]Gênero:[/COLOR] Ficção científica, Comédia, Suspense, Mistério
+        [COLOR red]Áudio:[/COLOR] Inglês
+        [COLOR orange]Qualidade do Vídeo:[/COLOR] 1080p WEB-DL
+        [COLOR red]Sinopse:[/COLOR] Uma mãe de luto usa um jogo de realidade virtual para atrapalhar a viagem de fim de semana de seus antigos amigos. Mas o que começa como um exercício de cura terapêutica se transforma em uma noite de vingança.
+        [COLOR red]Elenco:[/COLOR]
+        [COLOR orange]Rebecca Creskoff[/COLOR] como Nora
+        [COLOR orange]Toks Olagundoye[/COLOR] como Shannon
+        [COLOR orange]Jenn Lyon[/COLOR] como Lily
+        [COLOR orange]Kadeem Hardison[/COLOR] como Tom
+        [COLOR orange]Matt Peters[/COLOR] como David
+        [COLOR orange]Rob Benedict[/COLOR] como Michael
+        [COLOR orange]Seana Kofoed[/COLOR] como Kate
+        [COLOR orange]Jessica Meraz[/COLOR] como Shelby
+        [COLOR orange]Alec Mapa[/COLOR] como Gary
+    </info>
 </item>
 
 <item>
-<title>Capitão América: Admirável Mundo Novo - (2025)</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DD2EBFA7D40BB6FBE065E54E02EE532119B1584E</link>
-<thumbnail>https://image.tmdb.org/t/p/original/5nbSgP8f5LMCI0PwVRRaHJaUmR3.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/ywe9S1cOyIhR5yWzK7511NuQ2YX.jpg</fanart>
-<info>Após se encontrar com o recém-eleito presidente dos EUA, Thaddeus Ross, Sam se vê no meio de um incidente internacional. Ele deve descobrir o motivo por trás de uma conspiração global nefasta antes que o verdadeiro gênio faça o mundo inteiro ser dominado pelo vermelho.</info>
-</item> 
-
-<item>
-<title>Conclave  - (2025)</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b0b3cec906b8d6e23e781a20921ecaa66218ce95</link>
-<thumbnail>https://image.tmdb.org/t/p/original/xS5SK7EVPCmsFAOT48rCsJesmkP.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/tkRDTu9hyWgaBSSzfkYDCZYd1kV.jpg</fanart>
-<info>Após a morte inesperada do atual pontífice, o Cardeal Lawrence é encarregado de conduzir esse processo confidencial. Os líderes mais poderosos da Igreja Católica de todo o mundo se reúnem nos corredores do Vaticano para participar da seleção, cada um com suas próprias ambições. Lawrence se vê no centro de uma conspiração, desvendando segredos que ameaçam não apenas sua fé, mas também as fundações da Igreja.</info>
+    <title>[B][COLOR red]Capitão América: Admirável Mundo Novo (2025)[/COLOR][/B] - [COLOR orange]IMDb: 7.5[/COLOR] [COLOR red]+14[/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DD2EBFA7D40BB6FBE065E54E02EE532119B1584E$nome=[COLOR orange]Filme - Capitão América: Admirável Mundo Novo (2025)[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=C1IL5gIkc6A$nome=[COLOR green]Trailer - Capitão América: Admirável Mundo Novo (2025)[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/5nbSgP8f5LMCI0PwVRRaHJaUmR3.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/ywe9S1cOyIhR5yWzK7511NuQ2YX.jpg</fanart>
+    <genre>Ação, Aventura, Fantasia</genre>
+    <info>
+        [COLOR red]Título Original:[/COLOR] Captain America: Brave New World
+        [COLOR orange]Dirigido por:[/COLOR] Julius Onah
+        [COLOR red]Roteiristas:[/COLOR] Malcolm Spellman, Dalan Musson
+        [COLOR orange]Estúdio:[/COLOR] Marvel Studios
+        [COLOR red]Ano:[/COLOR] 2025
+        [COLOR orange]Duração:[/COLOR] 118 min
+        [COLOR red]Nota IMDb:[/COLOR] 7.5
+        [COLOR orange]Gênero:[/COLOR] Ação, Aventura, Fantasia
+        [COLOR red]Áudio:[/COLOR] Inglês
+        [COLOR orange]Qualidade do Vídeo:[/COLOR] 1080p WEB-DL
+        [COLOR red]Sinopse:[/COLOR] Após se encontrar com o recém-eleito presidente dos EUA, Thaddeus Ross, Sam Wilson se vê no meio de um incidente internacional. Ele deve descobrir o motivo por trás de uma conspiração global nefasta antes que o verdadeiro responsável faça com que o mundo todo veja vermelho.
+        [COLOR red]Elenco Principal:[/COLOR]
+        [COLOR orange]Anthony Mackie[/COLOR] como Sam Wilson / Capitão América
+        [COLOR orange]Harrison Ford[/COLOR] como Presidente Thaddeus "Thunderbolt" Ross
+        [COLOR orange]Danny Ramirez[/COLOR] como Joaquin Torres / Falcão
+        [COLOR orange]Shira Haas[/COLOR] como Sabra
+        [COLOR orange]Xosha Roquemore[/COLOR] como Leila Taylor
+        [COLOR orange]Carl Lumbly[/COLOR] como Isaiah Bradley
+        [COLOR orange]Giancarlo Esposito[/COLOR] como Dr. Eli Bradley
+        [COLOR orange]Liv Tyler[/COLOR] como Betty Ross
+        [COLOR orange]Tim Blake Nelson[/COLOR] como Samuel Sterns / O Líder
+    </info>
 </item>
 
-<item>
-<title>As Férias Assustadoras de Nelly Rapp - (2025)</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f74132507f59511b95aa71590dae639e75e9beef</link>
-<thumbnail>https://image.tmdb.org/t/p/original/gH1b9vtGinOOt3mOoUTPhkEsrgJ.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/4LuJCO1edIbLVGx99uv7luDoIJt.jpg</fanart>
-<info>Nelly tem sua maneira especial de ver as coisas. Onde os outros estão assustados, ela permanece imperturbável. Monstros no porão? Mais um motivo para conferir o lugar! Sem amigos? Nelly vai lidar com isso. Bisbilhotando na mansão labiríntica do tio Hannibal, Nelly se depara com um segredo incrível: sua família tem mantido a paz entre humanos, zumbis, vampiros e outras criaturas horríveis por décadas, como membros de uma brigada internacional de agentes monstruosos. Nelly também quer caçar monstros e começa a levantar uma boa quantidade de poeira. Mas e se ela foi enganada sobre quem é realmente responsável pelo medo e pelo medo?</info>
-</item> 
 
 <item>
-<title>Estrada da Morte - (2025)</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba162da8afa0e27e5c3cdb5c9810783c1f9ac34f</link>
-<thumbnail>https://image.tmdb.org/t/p/original/9grd4OCigNRhVvTiV3U5g5Kfeh1.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/v4A4YA1LgRtPTi79EoXTtxQ4ZEK.jpg</fanart>
-<info>A viagem de um jovem casal apaixonado acaba se transformando em um pesadelo quando eles passam a ser perseguidos por um homem misterioso.</info>
+    <title>[B][COLOR red]Conclave (2025)[/COLOR][/B] - [COLOR orange]IMDb: 7.4[/COLOR] [COLOR red]+12[/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b0b3cec906b8d6e23e781a20921ecaa66218ce95$nome=[COLOR orange]Filme - Conclave (2025)[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=lJ3zOSDIj7o$nome=[COLOR green]Trailer - Conclave (2025)[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/xS5SK7EVPCmsFAOT48rCsJesmkP.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/tkRDTu9hyWgaBSSzfkYDCZYd1kV.jpg</fanart>
+    <genre>Suspense</genre>
+    <info>
+        [COLOR red]Título Original:[/COLOR] Conclave
+        [COLOR orange]Dirigido por:[/COLOR] Edward Berger
+        [COLOR red]Roteiristas:[/COLOR] Peter Straughan, Robert Harris
+        [COLOR orange]Estúdio:[/COLOR] House Productions, FilmNation Entertainment, Wildside
+        [COLOR red]Ano:[/COLOR] 2025
+        [COLOR orange]Duração:[/COLOR] 120 min
+        [COLOR red]Nota IMDb:[/COLOR] 7.4
+        [COLOR orange]Gênero:[/COLOR] Suspense
+        [COLOR red]Áudio:[/COLOR] Inglês
+        [COLOR orange]Qualidade do Vídeo:[/COLOR] 1080p WEB-DL
+        [COLOR red]Sinopse:[/COLOR] Após a morte inesperada do atual pontífice, o Cardeal Lawrence é encarregado de conduzir o processo confidencial de eleição de um novo Papa. Líderes poderosos da Igreja Católica se reúnem no Vaticano, cada um com suas próprias ambições. Lawrence se vê no centro de uma conspiração, desvendando segredos que ameaçam não apenas sua fé, mas também as fundações da Igreja.
+        [COLOR red]Elenco Principal:[/COLOR]
+        [COLOR orange]Ralph Fiennes[/COLOR] como Cardeal Lawrence
+        [COLOR orange]Stanley Tucci[/COLOR] como Cardeal Bellini
+        [COLOR orange]John Lithgow[/COLOR] como Cardeal Tremblay
+        [COLOR orange]Isabella Rossellini[/COLOR] como Irmã Agnes
+        [COLOR orange]Brían F. O'Byrne[/COLOR] como Cardeal O'Connell
+        [COLOR orange]Lucian Msamati[/COLOR] como Cardeal Adeyemi
+        [COLOR orange]Sergio Castellitto[/COLOR] como Cardeal Tedesco
+        [COLOR orange]Joseph Mydell[/COLOR] como Nakitanda
+        [COLOR orange]Loris Loddi[/COLOR] como Cardeal Villanueva
+    </info>
 </item>
 
+
 <item>
-<title>Chapeuzinho Vermelho: Herança de Família - (2025)</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a695d054a17a3319b08ba7b77294e09b4a9488f</link>
-<thumbnail>https://image.tmdb.org/t/p/original/zxDqtu6kP1uEZAQ1a5rfcfB6k2a.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/rMR8lwewpVvbHLmJpFdUmwTWp9.jpg</fanart>
-<info>Para salvar sua cidade dos lobos, Chapeuzinho Vermelho precisa desvendar o mistério do desaparecimento de seu pai, Wolfboy, e enfrentar seus medos de encontrar seu destino.></info>
-</item> 
+    <title>[B][COLOR red]As Férias Assustadoras de Nelly Rapp (2020)[/COLOR][/B] - [COLOR orange]IMDb: 5.8[/COLOR] [COLOR red]+12[/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f74132507f59511b95aa71590dae639e75e9beef$nome=[COLOR orange]Filme - As Férias Assustadoras de Nelly Rapp (2020)[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=U7JG6FMoEdM$nome=[COLOR green]Trailer - As Férias Assustadoras de Nelly Rapp (2020)[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/gH1b9vtGinOOt3mOoUTPhkEsrgJ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/4LuJCO1edIbLVGx99uv7luDoIJt.jpg</fanart>
+    <genre>Família</genre>
+    <info>
+        [COLOR red]Título Original:[/COLOR] Nelly Rapp - Monsteragent
+        [COLOR orange]Dirigido por:[/COLOR] Amanda Adolfsson
+        [COLOR red]Roteiro:[/COLOR] Sofie Forsman
+        [COLOR orange]Estúdio:[/COLOR] SF Studios
+        [COLOR red]Ano:[/COLOR] 2020
+        [COLOR orange]Duração:[/COLOR] 93 min
+        [COLOR red]Nota IMDb:[/COLOR] 5.8
+        [COLOR orange]Gênero:[/COLOR] Família
+        [COLOR red]Áudio:[/COLOR] Sueco, Português (Brasil)
+        [COLOR orange]Qualidade do Vídeo:[/COLOR] 1080p WEB-DL
+        [COLOR red]Sinopse:[/COLOR] Nelly e seu cachorro London estão prestes a passar as férias de outono com seu tio Hannibal. Logo ela percebe que ele não vive uma vida tranquila. Seu tio é um agente de monstros. Nelly é arrastada para uma aventura cheia de fantasmas, vampiros e lobisomens.
+        [COLOR red]Elenco Principal:[/COLOR]
+        [COLOR orange]Matilda Gross[/COLOR] como Nelly Rapp
+        [COLOR orange]Johan Rheborg[/COLOR] como Tio Hannibal
+        [COLOR orange]Marianne Mörck[/COLOR] como Lena-Sleva
+        [COLOR orange]Lily Wahlsteen[/COLOR] como Roberta
+        [COLOR orange]Björn Gustafsson[/COLOR] como Vincent
+        [COLOR orange]Amy Deasismont[/COLOR] como Spöket Albertina
+        [COLOR orange]David Wiberg[/COLOR] como Lukas Vampyr
+        [COLOR orange]Elisabeth Wernesjö[/COLOR] como Präst
+        [COLOR orange]Emma Broomé[/COLOR] como Vanja Varulv
+    </info>
+</item>
+
+
+<item>
+    <title>[B][COLOR red]Estrada da Morte (2023)[/COLOR][/B] - [COLOR orange]IMDb: 4.1[/COLOR] [COLOR red]+14[/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba162da8afa0e27e5c3cdb5c9810783c1f9ac34f$nome=[COLOR orange]Filme - Estrada da Morte (2023)[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=IPiwn1C1q3E$nome=[COLOR green]Trailer - Estrada da Morte (2023)[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/9grd4OCigNRhVvTiV3U5g5Kfeh1.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/v4A4YA1LgRtPTi79EoXTtxQ4ZEK.jpg</fanart>
+    <genre>Terror, Suspense</genre>
+    <info>
+        [COLOR red]Título Original:[/COLOR] The Fearway
+        [COLOR orange]Direção:[/COLOR] Slobodan Gajic
+        [COLOR red]Roteiro:[/COLOR] Noah Bessey, Simon Phillips
+        [COLOR orange]Ano:[/COLOR] 2023
+        [COLOR red]Duração:[/COLOR] 81 min
+        [COLOR orange]Classificação Indicativa:[/COLOR] 14 anos
+        [COLOR red]Nota IMDb:[/COLOR] 4.1
+        [COLOR orange]Gêneros:[/COLOR] Terror, Suspense
+        [COLOR red]Sinopse:[/COLOR] A viagem de um jovem casal apaixonado transforma-se em pesadelo quando são perseguidos por um homem misterioso.
+        [COLOR orange]Elenco Principal:[/COLOR]
+        [COLOR red]Shannon Dalonzo[/COLOR] como Sarah
+        [COLOR red]Justin Gordon[/COLOR] como O Estranho
+        [COLOR red]Jessica Gray[/COLOR] como Lacey
+        [COLOR red]Johnathan Moody[/COLOR] como Patrick
+        [COLOR red]Simon Phillips[/COLOR] como O Homem
+        [COLOR red]Eileen Dietz[/COLOR] como Velha
+    </info>
+</item>
+
+
+<item>
+    <title>[B][COLOR red]Chapeuzinho Vermelho: Herança de Família (2025)[/COLOR][/B] - [COLOR orange]IMDb: 5.0[/COLOR] [COLOR red]+12[/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a695d054a17a3319b08ba7b77294e09b4a9488f$nome=[COLOR orange]Filme - Chapeuzinho Vermelho: Herança de Família (2025)[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=SDmAjMpSy7Q$nome=[COLOR green]Trailer - Chapeuzinho Vermelho: Herança de Família (2025)[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/zxDqtu6kP1uEZAQ1a5rfcfB6k2a.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/rMR8lwewpVvbHLmJpFdUmwTWp9.jpg</fanart>
+    <genre>Fantasia, Aventura, Família</genre>
+    <info>
+        [COLOR red]Título Original:[/COLOR] Krasnaya Shapochka
+        [COLOR orange]Direção:[/COLOR] Artyom Aksenenko
+        [COLOR red]Ano:[/COLOR] 2025
+        [COLOR orange]Duração:[/COLOR] 96 min
+        [COLOR red]Classificação Indicativa:[/COLOR] 12 anos
+        [COLOR orange]Nota IMDb:[/COLOR] 5.0
+        [COLOR red]Gêneros:[/COLOR] Fantasia, Aventura, Família
+        [COLOR orange]Sinopse:[/COLOR] Para salvar sua cidade dos lobos, Chapeuzinho Vermelho precisa desvendar o mistério do desaparecimento de seu pai, Volkoboy, e enfrentar seus medos para encontrar seu destino.
+        [COLOR red]Elenco Principal:[/COLOR]
+        [COLOR orange]Taisya Kalinina[/COLOR] como Chapeuzinho Vermelho
+        [COLOR orange]Danila Yakushev[/COLOR] como Volkoboy
+        [COLOR orange]Ekaterina Klimova[/COLOR] como Marie
+        [COLOR orange]Irina Rozanova[/COLOR] como Avó
+    </info>
+</item>
+
 
 <item>
 <title>Terapia nas Montanhas - (2025)</title>
