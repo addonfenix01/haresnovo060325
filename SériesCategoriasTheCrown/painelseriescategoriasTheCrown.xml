@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+
+
+<channel>
+<name>[B][COLOR red]TheCrown [/COLOR] [COLOR pink]RECEM-ADICIONADOS [/COLOR][/B]</name>  
+<thumbnail>https://archive.org/download/TheCrownfilmesmisterio/TheCrownfilmesacao.jpg</thumbnail>    
+<fanart>https://archive.org/download/TheCrownfilmesmisterio/TheCrownfilmesacao.jpg</fanart>  
+<externallink></externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR pink]TheCrown [/COLOR] [COLOR red]AÇÂO [/COLOR][/B]</name>  
+<thumbnail>https://archive.org/download/TheCrownfilmesmisterio/TheCrownfilmesacao.png</thumbnail>    
+<fanart>https://archive.org/download/TheCrownfilmesmisterio/TheCrownfilmesacao.png</fanart>  
+<externallink></externallink>
+</channel>
+    
+<channel>
+<name>[B][COLOR red]TheCrown[/COLOR] [COLOR pink]ANIMAÇÂO[/COLOR][/B]</name> 
+<thumbnail>https://archive.org/download/TheCrownfilmesmisterio/TheCrownfilmesanimacao.png</thumbnail>    
+<fanart>https://archive.org/download/TheCrownfilmesmisterio/TheCrownfilmesanimacao.png</fanart>     
+<externallink></externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR pink]TheCrown [/COLOR] [COLOR red]AVENTURA [/COLOR][/B]</name>  
+<thumbnail>https://archive.org/download/TheCrownfilmesmisterio/TheCrownfilmesaventura.png</thumbnail>    
+<fanart>https://archive.org/download/TheCrownfilmesmisterio/TheCrownfilmesaventura.png</fanart>  
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonTheCrownbrasil/refs/heads/main/filmes%20TheCrown/aventura.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR red]TheCrown[/COLOR] [COLOR pink]CLASSICOS [/COLOR][/B]</name> 
+<thumbnail>https://archive.org/download/TheCrownfilmesclassicos/TheCrownfilmesclassicos.png</thumbnail>    
+<fanart>https://archive.org/download/TheCrownfilmesclassicos/TheCrownfilmesclassicos.png</fanart>     
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonTheCrownbrasil/refs/heads/main/filmes%20TheCrown/classicos.xml</externallink>
+</channel>
+   
+<channel>
+<name>[B][COLOR red]TheCrown[/COLOR] [COLOR pink]COMÉDIA [/COLOR][/B]</name> 
+<thumbnail>https://archive.org/download/TheCrownfilmesmisterio/TheCrownfilmescomedia.png</thumbnail>    
+<fanart>https://archive.org/download/TheCrownfilmesmisterio/TheCrownfilmescomedia.png</fanart>     
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonTheCrownbrasil/refs/heads/main/filmes%20TheCrown/comedia.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR pink]TheCrown [/COLOR] [COLOR red]CRIME [/COLOR][/B]</name>  
+<thumbnail>https://archive.org/download/TheCrownfilmesmisterio/TheCrownfilmescrime.png</thumbnail>    
+<fanart>https://archive.org/download/TheCrownfilmesmisterio/TheCrownfilmescrime.png</fanart>  
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonTheCrownbrasil/refs/heads/main/filmes%20TheCrown/crime.xnl</externallink>
+</channel>
+    
+<channel>
+<name>[B][COLOR red]TheCrown[/COLOR] [COLOR pink]DOCUMENTÁRIO [/COLOR][/B]</name> 
+<thumbnail>https://archive.org/download/TheCrownfilmesmisterio/TheCrownfilmesdocumentarios.png</thumbnail>    
+<fanart>https://archive.org/download/TheCrownfilmesmisterio/TheCrownfilmesdocumentarios.png</fanart>     
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonTheCrownbrasil/refs/heads/main/filmes%20TheCrown/documentario.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR pink]TheCrown [/COLOR] [COLOR red]DRAMA [/COLOR][/B]</name>  
+<thumbnail>https://archive.org/download/TheCrownfilmesmisterio/TheCrownfilmesdrama.png</thumbnail>    
+<fanart>https://archive.org/download/TheCrownfilmesmisterio/TheCrownfilmesdrama.png</fanart>     
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonTheCrownbrasil/refs/heads/main/filmes%20TheCrown/drama.xml</externallink>
+</channel>
+
+
+<name>[B][COLOR red]TheCrown[/COLOR] [COLOR pink]FANTASIA [/COLOR][/B]</name> 
+<thumbnail>https://archive.org/download/TheCrownrecemadicionados/TheCrownfilmesfantasia.png</thumbnail>    
+<fanart>https://archive.org/download/TheCrownrecemadicionados/TheCrownfilmesfantasia.png</fanart>     
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonTheCrownbrasil/refs/heads/main/filmes%20TheCrown/fantasia.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR pink]TheCrown [/COLOR] [COLOR red]FAROESTE [/COLOR][/B]</name>  
+<thumbnail>https://archive.org/download/TheCrownfilmesmisterio/TheCrownfilmesfaroeste.png</thumbnail>    
+<fanart>https://archive.org/download/TheCrownfilmesmisterio/TheCrownfilmesfaroeste.png</fanart>  
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonTheCrownbrasil/refs/heads/main/filmes%20TheCrown/faroeste.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR red]TheCrown[/COLOR] [COLOR pink]FICÇÂO [/COLOR][/B]</name> 
+<thumbnail>https://archive.org/download/TheCrownfilmesmisterio/TheCrownfilmesfic%C3%A7ao.png</thumbnail>    
+<fanarthttps://archive.org/download/TheCrownfilmesmisterio/TheCrownfilmesfic%C3%A7ao.png></fanart>     
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonTheCrownbrasil/refs/heads/main/filmes%20TheCrown/ficcao%2Cxml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR pink]TheCrown[/COLOR] [COLOR red]GUERRA [/COLOR][/B]</name> 
+<thumbnail>https://archive.org/download/TheCrownfilmesmisterio/TheCrownfilmesguerra.png</thumbnail>    
+<fanart>https://archive.org/download/TheCrownfilmesmisterio/TheCrownfilmesguerra.png</fanart>     
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonTheCrownbrasil/refs/heads/main/filmes%20TheCrown/guerra.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR red]TheCrown[/COLOR] [COLOR pink]HOMENAGEM AO ARTISTA [/COLOR][/B]</name> 
+<thumbnail>https://archive.org/download/TheCrownfilmesmisterio/TheCrownfilmeshomenagemaoartista.png</thumbnail>    
+<fanart>https://archive.org/download/TheCrownfilmesmisterio/TheCrownfilmeshomenagemaoartista.png</fanart>     
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonTheCrownbrasil/refs/heads/main/filmes%20TheCrown/homenagemaoartista.xml</externallink>
+</channel>
+    
+<channel>
+<name>[B][COLOR pink]TheCrown[/COLOR] [COLOR red]MISTÉRIO [/COLOR][/B]</name> 
+<thumbnail>https://archive.org/download/TheCrownfilmesmisterio/TheCrownfilmesmisterio.png</thumbnail>    
+<fanart>https://archive.org/download/TheCrownfilmesmisterio/TheCrownfilmesmisterio.png</fanart>     
+<externallink></externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR red]TheCrown [/COLOR] [COLOR pink]ROMANCE [/COLOR][/B]</name>  
+<thumbnail>https://archive.org/download/TheCrownrecemadicionados/TheCrownfilmesromance1.png</thumbnail>    
+<fanart>https://archive.org/download/TheCrownrecemadicionados/TheCrownfilmesromance1.png</fanart>  
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonTheCrownbrasil/refs/heads/main/filmes%20TheCrown/misterio.xml</externallink>
+</channel>
+    
+<channel>
+<name>[B][COLOR pink]TheCrown [/COLOR] [COLOR red]TERROR [/COLOR][/B]</name>  
+<thumbnail>https://archive.org/download/TheCrownrecemadicionados/TheCrownfilmesdeterror.png</thumbnail>    
+<fanart>https://archive.org/download/TheCrownrecemadicionados/TheCrownfilmesdeterror.png</fanart>  
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonTheCrownbrasil/refs/heads/main/filmes%20TheCrown/terror.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR red]TheCrown [/COLOR] [COLOR pink]ARÉA DEV TESTES CONTEÚDOS [/COLOR][/B]</name>  
+<thumbnail>https://archive.org/download/TheCrowndevtestesdeconteudos/TheCrowndevtestesdeconteudos.png</thumbnail>    
+<fanart>https://archive.org/download/TheCrowndevtestesdeconteudos/TheCrowndevtestesdeconteudos.png</fanart>  
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonTheCrownbrasil/refs/heads/main/filmes%20TheCrown/2teste.xml</externallink>
+</channel>
+    
+
+    
+</channels>
