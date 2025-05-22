@@ -5,7 +5,7 @@
 <channel>
 <name>[COLOR red] ===[/COLOR] [COLOR orange] SEJAM BEM-VINDOS AO THE CROWN/BR/RS/R.O ENTRETENIMENTO AOS USUSÁRIO DO MUNDO KODI, LEMBRANDO QUE O CONTEÚDO É PEGO NA INTERNET ENTÃO PODE SER QUE ALGUMAS OPÇÕES, PODEM NÃO FUNCIONAR, OBRIGADO Á TODOS E BOM DIVERTIMENTO.[COLOR red] === [/COLOR]</name>
 <thumbnail>h</thumbnail>
-<fanart></fanart>
+<fanart>https://archive.org/download/icon_20250522/Fanart.jpg.jpeg</fanart>
 <info>[COLOR red] Sejam Bem vindos ao ADDON THE CROWN/BR/RS/R.O [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/haresnovo060325/refs/heads/main/entrada.xml</externallink>
 </channel>
@@ -13,15 +13,15 @@
 <channel>  
 <name>[COLOR orange] FILMES [/COLOR] GENEROS </name>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://archive.org/download/icon_20250522/Fanart.jpg.jpeg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/haresnovo060325/refs/heads/main/FilmesCategoriasTheCrown/painelfilmescategoriasTheCrown.xml</externallink>
 </channel>
   
-<channel>  
+<chann>  
 <name>[COLOR yellow] SÉRIES [/COLOR] GENEROS </name>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://archive.org/download/icon_20250522/Fanart.jpg.jpeg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/haresnovo060325/refs/heads/main/S%C3%A9riesCategoriasTheCrown/painelseriescategoriasTheCrown.xml</externallink>
 </channel>
