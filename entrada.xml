@@ -2,7 +2,6 @@
 <channels>
 
 
-  
 <channel>
 <name>[COLOR red] ===[/COLOR] [COLOR orange] SEJAM BEM-VINDOS AO THE CROWN/BR/RS/R.O ENTRETENIMENTO AOS USUSÁRIO DO MUNDO KODI, LEMBRANDO QUE O CONTEÚDO É PEGO NA INTERNET ENTÃO PODE SER QUE ALGUMAS OPÇÕES, PODEM NÃO FUNCIONAR, OBRIGADO Á TODOS E BOM DIVERTIMENTO.[COLOR red] === [/COLOR]</name>
 <thumbnail></thumbnail>
@@ -10,6 +9,7 @@
 <info>[COLOR red] Sejam Bem vindos ao ADDON THE CROWN/BR/RS/R.O [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/haresnovo060325/refs/heads/main/entrada.xml</externallink>
 </channel>
+
 
 <channel>  
 <name>[COLOR pink] FILMES [/COLOR] GENEROS </name>
@@ -19,7 +19,7 @@
 <externallink>https://raw.githubusercontent.com/addonfenix01/haresnovo060325/refs/heads/main/FilmesCategoriasTheCrown/painelfilmescategoriasTheCrown.xml</externallink>
 </channel>
   
-<chann>  
+<channel> 
 <name>[COLOR green] SÉRIES [/COLOR] GENEROS </name>
 <thumbnail>https://archive.org/download/thecrownfilmesrecemlacados/thecrownsseriesrecemla%C3%A7adas.png</thumbnail>
 <fanart>https://archive.org/download/icon_20250522/Fanart.jpg.jpeg</fanart>
