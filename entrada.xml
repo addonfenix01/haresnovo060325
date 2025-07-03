@@ -26,6 +26,14 @@
 <externallink>https://raw.githubusercontent.com/addonfenix01/haresnovo060325/refs/heads/main/tvonlinelista02.xml</externallink>
 </channel>
 
+<channel> 
+<name>[COLOR green] TVONLINE03 [/COLOR] GENEROS TELECINE E HBO </name>
+<thumbnail>https://archive.org/download/thecrownfilmesrecemlacados/thecrownsseriesrecemla%C3%A7adas.png</thumbnail>
+<fanart>https://archive.org/download/icon_20250522/Fanart.jpg.jpeg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/addonfenix01/haresnovo060325/refs/heads/main/tvonlinelista03xml</externallink>
+</channel>
+  
 <channel>  
 <name>[COLOR pink] FILMES [/COLOR] GENEROS </name>
 <thumbnail>https://archive.org/download/thecrownfilmesrecemlacados/thecrownfilmesrecemla%C3%A7ados.png</thumbnail>
