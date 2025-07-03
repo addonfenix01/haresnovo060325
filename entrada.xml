@@ -11,7 +11,7 @@
 </channel>
 
 <channel> 
-<name>[COLOR green] TVONLINE01 [/COLOR] GENEROS </name>
+<name>[COLOR green] TVONLINE01 [/COLOR] GENEROS FILMES </name>
 <thumbnail>https://archive.org/download/thecrownfilmesrecemlacados/thecrownsseriesrecemla%C3%A7adas.png</thumbnail>
 <fanart>https://archive.org/download/icon_20250522/Fanart.jpg.jpeg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
@@ -19,13 +19,12 @@
 </channel>
 
 <channel> 
-<name>[COLOR green] TVONLINE02 [/COLOR] GENEROS </name>
+<name>[COLOR yellow] TVONLINE02 [/COLOR] GENEROS CANAIS ABERTOS </name>
 <thumbnail>https://archive.org/download/thecrownfilmesrecemlacados/thecrownsseriesrecemla%C3%A7adas.png</thumbnail>
 <fanart>https://archive.org/download/icon_20250522/Fanart.jpg.jpeg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
-<externallink>https://github.com/addonfenix01/haresnovo060325/blob/main/tvonlinelista02.xml</externallink>
+<externallink>https://raw.githubusercontent.com/addonfenix01/haresnovo060325/refs/heads/main/tvonlinelista02.xml</externallink>
 </channel>
-
 
 <channel>  
 <name>[COLOR pink] FILMES [/COLOR] GENEROS </name>
